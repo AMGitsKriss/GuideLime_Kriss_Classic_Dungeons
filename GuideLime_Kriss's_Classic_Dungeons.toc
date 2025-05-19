@@ -1,0 +1,12 @@
+## Title: Guidelime_Kriss's
+## Author: AMGitsKriss
+## Version: 1.0
+## Interface: 11507
+## Dependencies: Guidelime
+## Notes: Any and all dungeon quests
+
+Alliance 13+ WC.lua
+Alliance 14+ DM.lua
+Alliance 18+ SFK.lua
+Alliance 21+ BFD.lua
+Alliance 22+ Stockade.lua
