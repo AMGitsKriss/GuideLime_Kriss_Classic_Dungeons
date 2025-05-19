@@ -19,6 +19,9 @@ Hand in prequest [QT303]
 Get dungeon quest: [QA378][XP22]
 
 Do *Stockades"
+[QC188][QC187][QC377][QC386][QC391]
+[QC378]
+
 Hand in [QT188]
 Hand in [QT187]
 Hand in [QT377]

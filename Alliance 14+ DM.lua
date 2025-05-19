@@ -34,10 +34,12 @@ Hand in to Duthorian Rall: [QT1652][A Paladin]
 Paladin prequest: [QA1653][XP20][A Paladin]
 Hand in to Jordan Stilwell: [QT1653][A Paladin]
 Paladin prequest: [QA1654][XP20][A Paladin]
-Each item for The Test of Righteousness comes from another instance. The only item we need from DM is Whitestone Oak Lumber: [QC1654][A Paladin]
+The only item we need from DM is Whitestone Oak Lumber: [QC1654][A Paladin]
 
 
 Do *Deadmines"
+Hand in [QC167][QC2040][QC214][QC373][QC166]
+
 Loot [QA373] from Edwin Vancleef
 Go to Stormwind [G 55,60 Stormwind]
 Hand in [QT168]

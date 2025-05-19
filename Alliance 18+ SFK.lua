@@ -22,7 +22,7 @@ Hand in to Duthorian Rall: [QT1652][A Paladin]
 Paladin prequest: [QA1653][XP20][A Paladin]
 Hand in to Jordan Stilwell: [QT1653][A Paladin]
 Paladin quest: [QA1654][XP20][A Paladin]
-Each item for The Test of Righteousness comes from another instance. The only item we need from SFK is Jordan's Smithing Hammer: [QC1654][A Paladin]
+The only item we need from SFK is Jordan's Smithing Hammer: [QC1654][A Paladin]
 
 
 Do *Shadowfang Keep"

@@ -18,6 +18,7 @@ Get dungeon quest: [QA959][XP14]
 Get [QA6981][XP15] from Inside
 
 Do *Wailing Caverns*
+[QC1491][QC1486][QC959][QC1487][QC959]
 Hand in: [QT1491]
 Hand in: [QT1486]
 Hand in: [QT959]
